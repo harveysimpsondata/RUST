@@ -1,0 +1,11 @@
+/Users/leesimpson/PycharmProjects/RUST/2. Guessing Game/guessing_game/target/debug/deps/colored-050af0a314638550.rmeta: /Users/leesimpson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/lib.rs /Users/leesimpson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/color.rs /Users/leesimpson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/control.rs /Users/leesimpson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/style.rs /Users/leesimpson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/customcolors.rs
+
+/Users/leesimpson/PycharmProjects/RUST/2. Guessing Game/guessing_game/target/debug/deps/libcolored-050af0a314638550.rlib: /Users/leesimpson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/lib.rs /Users/leesimpson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/color.rs /Users/leesimpson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/control.rs /Users/leesimpson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/style.rs /Users/leesimpson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/customcolors.rs
+
+/Users/leesimpson/PycharmProjects/RUST/2. Guessing Game/guessing_game/target/debug/deps/colored-050af0a314638550.d: /Users/leesimpson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/lib.rs /Users/leesimpson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/color.rs /Users/leesimpson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/control.rs /Users/leesimpson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/style.rs /Users/leesimpson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/customcolors.rs
+
+/Users/leesimpson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/lib.rs:
+/Users/leesimpson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/color.rs:
+/Users/leesimpson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/control.rs:
+/Users/leesimpson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/style.rs:
+/Users/leesimpson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/customcolors.rs:
